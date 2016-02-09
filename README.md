@@ -7,7 +7,8 @@ Set of Python tools for interacting with MLBAM and their data.
 ## How?
 
 1. Clone this repo
-2. Run `setup.py`
+2. Run `python setup.py install`
+3. Run `pip install -r requirements.txt`
 
 This will install two things:
 
